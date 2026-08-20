@@ -1,0 +1,6 @@
+{
+  "name": "Customer Support Assistant",
+  "description": "Professional customer support assistant resolving questions across products, orders, accounts, returns, troubleshooting, and escalation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
